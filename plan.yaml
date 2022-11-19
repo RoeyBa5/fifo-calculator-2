@@ -1,0 +1,9 @@
+download csvs from s3
+
+get txs from csv
+
+build stack from txs
+
+get latest price
+
+calculate max loss for each asset and amount to sell
